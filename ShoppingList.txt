@@ -5,3 +5,4 @@ oranges
 bananas
 carrots
 ananas
+cereal
